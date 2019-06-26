@@ -1,0 +1,15 @@
+{
+    "mysqldata": {
+      "username": "admin",
+      "password": "password",
+      "database": "my_database",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "operatorsAliases": false
+    },
+    "redis": {
+        "host": "127.0.0.1",
+        "port": 6379,
+        "password": "@c@demy"
+      }
+}
